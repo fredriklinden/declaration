@@ -1,5 +1,5 @@
 
-_Vi är entreprenörer, intraprenörer, aktivister, akademiker, börsnoterade företag, idéburna organisationer, offentliga organ och utvecklare. I många år har vi använt olika ord för vad vi gör - MyData, SelfData, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) etc., samtidigt som vi delar ett gemensamt mål: **, att stärka individens egenmakt i relation till sin personliga data. vilket hjälper dem och deras samhällen att utveckla kunskap, fatta välgrundade beslut samt samverka mer medvetet och effektivt med varandra och med organisationer.**_
+_Vi är entreprenörer, intraprenörer, aktivister, akademiker, börsnoterade företag, idéburna organisationer, offentliga organ och utvecklare. I många år har vi använt olika ord för vad vi gör - MyData, SelfData,VRM, Internet of Me, PIMS etc., samtidigt som vi delar ett gemensamt mål: **, att stärka individens egenmakt i relation till sin personliga data. Vilket hjälper oss och våra samhällen att utveckla kunskap, fatta välgrundade beslut samt samverka mer medvetet och effektivt med varandra och med organisationer.**_
 
 _Under de senaste åren har vi bildat ett nätverk vars deltagare delar erfarenheter, utvecklar gemensamma projekt, möts på MyData-konferensen och deltar i kollektiva insatser som syftar till ett människocentrerat handhavande av personuppgifter._
 
@@ -19,9 +19,9 @@ Idag är maktbalansen kraftigt till fördel åt organisationer som ensamt har m�
 
 ## 1. MYDATA-skiftet: Vad behöver förändras
 
-Vårt övergripande mål är att stärka individens egenmakt i relation till sin personliga data. till sina egna ändamål, och att dela dem på ett säkert sätt på sina egna villkor. Vi kommer att tillämpa och utöva detta mänskligt centrerade förhållningssätt på våra egna tjänster, och vi kommer att skapa verktyg och dela kunskap för att hjälpa andra att göra detsamma.
+Vårt övergripande mål är att stärka individens egenmakt i relation till sin personliga data. Till sina egna ändamål, och att dela dem på ett säkert sätt på sina egna villkor. Vi kommer att tillämpa och utöva detta mänskligt centrerade förhållningssätt på våra egna tjänster, och vi kommer att skapa verktyg och dela kunskap för att hjälpa andra att göra detsamma.
 
-### 1.1. FRÅN FORMELLA RÄTTIGHETER TILL AKTIVA ÅTGÄRDER
+### 1.1. FRÅN FORMELLA RÄTTIGHETER TILL PRAKTISK VARDAG
 
 I många länder har individer haft legalt dataskydd i årtionden, men deras rättigheter har fortfarande varit mest formella: lite kända, svåra att genomdriva och ofta dolda i företagspraxis. Vi vill ha verklig transparens och att väl informerade samtycken skall bli det nya normala när människor och organisationer interagerar. Vi avser se till att åtkomst och åtgärd, flyttbarhet och rätten att bli glömd, blir "enklicksrättigheter": rättigheter som är lika enkla och effektiva att använda som dagens och morgondagens bästa onlinetjänster.
 
@@ -78,29 +78,29 @@ Vi vill att individer ska kunna **säkert hantera sina personuppgifter** på sit
 
 ### 3.4 PORTABILITET: ÅTGÄRD OCH ANVÄNDNING
 
-Den överförbarhet av personuppgifter, som tillåter individer att skaffa och återanvända personuppgifter för egna ändamål och i olika tjänster, är nyckeln till att övergå från data i slutna silon till data som blir återanvändbara resurser. Dataportabilitet bör inte bara vara en laglig rätt, utan också kombinerad med praktiska medel.
+Den överförbarhet av personuppgifter, som tillåter individer att skaffa och återanvända personuppgifter för egna ändamål och i olika tjänster, är nyckeln till att övergå från data i slutna silor till data som blir återanvändbara resurser. Dataportabilitet bör inte bara vara en laglig rätt, utan också kombineras med praktiska medel.
 
-Vi vill bemyndiga individer att **effektivt över- och införa sina personuppgifter**, genom att såväl ladda ner dem till sina personliga enheter som att överföra dem till andra tjänster. Vi har för avsikt att hjälpa datakällor att göra dessa data tillgängliga på ett säkert och enkelt sätt, i ett strukturerat, allmänt använt och maskinläsbart format. Detta gäller alla personuppgifter oavsett rättslig grund (kontrakt, samtycke, berättigat intresse etc.) för datainsamling, med eventuella undantag för berikad data.
+Vi vill bemyndiga individer att **effektivt över- och införa sina personuppgifter**, genom att såväl ladda ner dem till sina personliga enheter som att överföra dem till andra tjänster. Vi har för avsikt att hjälpa datakällor att göra dessa data tillgängliga på ett säkert och enkelt sätt, i ett strukturerat, allmänt använt och maskinläsbart format. Detta gäller alla personuppgifter oavsett rättslig grund (kontrakt, samtycke, berättigat intresse osv.) för datainsamling, med eventuella undantag för berikad data.
 
 ### 3.5 ÖPPENHET OCH ANSVAR
 
-Organisationer som använder en persons data bör uppge vad de gör med dem och varför, och bör göra vad de sagt. De bör ta ansvar för avsedda såväl som oavsiktliga konsekvenser av att inneha och använda personuppgifter, inklusive men inte begränsat till säkerhetshändelser, och låta enskilda be dem verifiera detta ansvar.
+Organisationer som använder en persons data ska uppge vad de gör med dem och varför, och bör göra vad de sagt. De bör ta ansvar för avsedda såväl som oavsiktliga konsekvenser av att inneha och använda personuppgifter, inklusive men inte begränsat till säkerhetshändelser, och låta enskilda be dem verifiera detta ansvar.
 
-Vi vill se till att **sekretessvillkor och policyer speglar verkligheten** på sätt som gör att människor kan göra välinformerade val och som kan verifieras under och efter aktiviteten. Vi vill låta individer **förstå hur och varför beslut** baserade på deras data görs. Vi vill skapa enkla och säkra kanaler för individer att **se och kontrollera vad som händer med deras data**, varna dem om möjliga problem och utmana algoritmbaserade beslut.
+Vi vill se till att **sekretessvillkor och policyer speglar verkligheten** på sätt som gör att människor kan göra välinformerade val som kan verifieras under och efter aktiviteten. Vi vill låta individer **förstå hur och varför beslut** baserade på deras data görs. Vi vill skapa enkla och säkra kanaler för individer att **se och kontrollera vad som händer med deras data**, varna dem om möjliga problem och utmana algoritmbaserade beslut.
 
 ### 3.6 INTEROPERABILITET
 
 Syftet med driftskompatibilitet är att minska friktionen i dataflödet från datakällor till data användande tjänster, samtidigt som möjligheterna att låsa in data elimineras. Det bör uppnås genom att kontinuerligt eftersträva **vedertagna affärsmetoder och tekniska och semantiska standarder**.
 
-För att maximera de positiva effekterna av öppna ekosystem, kommer vi kontinuerligt att arbeta för driftskompatibilitet av data, öppna API, protokoll, applikationer och infrastruktur, så att alla personuppgifter är **flytt- och återanvändbara** utan att förlora användarkontroll. Vi kommer att bygga på allmänt accepterade standarder, ontologier, bibliotek och scheman, eller hjälpa till att utveckla nya om det behövs.
+För att maximera de positiva effekterna av öppna ekosystem, kommer vi kontinuerligt att arbeta för driftskompatibilitet av data, öppna API:er, protokoll, applikationer och infrastruktur, så att alla personuppgifter är **flytt- och återanvändbara** utan att mista användarkontroll. Vi kommer att bygga på allmänt accepterade standarder, ontologier, bibliotek och scheman, eller hjälpa till att utveckla nya om det behövs.
 
 ## 4. ÅTGÄRDER: Vad händer nu
 
-* **Signera Gemensamhetsdeklarationen**, som individ och / eller som en legal organisation. Denna deklaration är skriven i futurum (tempusform för framtid): även om din organisation inte är helt överens om allt , men är fast besluten att förflytta sig i den här riktningen, bör deklarationen  ändå  undertecknas!
+* **Signera Gemensamhetsdeklarationen**, som individ och / eller som legal organisation. Denna deklaration är skriven i futurum (tempusform för framtid): även om din organisation inte är helt överens om allt, men är fast besluten att förflytta sig i den här riktningen, bör deklarationen ändå undertecknas!
 
 * **Kommentera på Gemensamhetsförklaringen**. Denna deklaration kommer att utvecklas över tiden, baserat på dina idéer och praktiska erfarenheter. En första granskning kommer att ske efter 6 månader.
 
-* **Använd deklarationen** för att vidareutveckla dina egna projekt och avsikter. Basera ditt förtroenderamverk och dina tjänstevillkor på den. Använd den för att påverka och övertyga kunder, partners, intressenter etc.
+* **Använd deklarationen** för att vidareutveckla dina egna projekt och avsikter. Basera ditt förtroenderamverk och dina tjänstevillkor på den. Använd den för att påverka och övertyga kunder, partners och intressenter.
 
 ## REFERENSER
 
